@@ -1,5 +1,7 @@
 ---
 layout: home
+title: XtremeWave
+titleTemplate: :title - Among Us Mod出色贡献者
 hero:
   name: "XtremeWave"
   tagline: Among Us Mod出色贡献者
@@ -9,10 +11,10 @@ hero:
   actions:
     - theme: alt
       text: 关于
-      link: /about
+      link: about
     - theme: brand
       text: 下载中心
-      link: /download/tonex/
+      link: https://dev.xtreme.net.cn
     - theme: brand
       text: 极致项目
       link: /project/
@@ -21,10 +23,26 @@ hero:
       link: /donate
 features:
   - title: TownOfNewEpic_Xtreme
+    icon: 🔥
     details: HostOnly Mod for Among Us,forked from TownOfNext.
+    link: /project/TONEX/
+    linkText: 查看项目
   - title: FinalSuspect_Xtreme
+    icon: 🛠️
     details: 你最佳的原版辅助插件。
-  - title: Undertale:StarfallFaded
+    link: /project/FSX/
+    linkText: 查看项目
+  - title: TheOtherRolesEdited
+    icon: ✨
+    details: 一个TOR的分支
+    link: /project/TORE/
+    linkText: 查看项目
+  - title: AmongUsModManager
+    icon: 🆕
+    details: An Among Us Mod Manager built with Electron.
+    linkText: 敬请期待
+  - title: Among Eggys
+    icon: 🎮
     details: 
+    linkText: 敬请期待
 ---
-
